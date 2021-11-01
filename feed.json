@@ -13,15 +13,16 @@
             "id": "https://wuzni.github.io/wuzni/welcome-to-wuzni-website.html",
             "url": "https://wuzni.github.io/wuzni/welcome-to-wuzni-website.html",
             "title": "Welcome To Wuzni Website",
-            "summary": "It's my new website for testing github service, thank you to watch it.",
-            "content_html": "<p>It's my new website for testing github service, thank you to watch it.</p>",
+            "summary": "It's my new website for testing github service, thank you to watch it. ",
+            "content_html": "<p>It's my new website for testing github service, thank you to watch it.</p>\n<figure class=\"post__image post__image--wide\" ><img loading=\"lazy\" src=\"https://wuzni.github.io/wuzni/media/posts/1/mo-gabrail-iuC3w8mLDcs-unsplash-xxl.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://wuzni.github.io/wuzni/media/posts/1/responsive/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-xs.jpg 300w ,https://wuzni.github.io/wuzni/media/posts/1/responsive/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-sm.jpg 480w ,https://wuzni.github.io/wuzni/media/posts/1/responsive/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-md.jpg 768w ,https://wuzni.github.io/wuzni/media/posts/1/responsive/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-lg.jpg 1024w ,https://wuzni.github.io/wuzni/media/posts/1/responsive/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-xl.jpg 1360w ,https://wuzni.github.io/wuzni/media/posts/1/responsive/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-2xl.jpg 1600w\"  alt=\"It's My New Image\" width=\"1600\" height=\"1200\">\n<figcaption >It's My New Image</figcaption>\n</figure>\n<p> </p>\n<p> </p>",
+            "image": "https://wuzni.github.io/wuzni/media/posts/1/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-2.jpg",
             "author": {
                 "name": "admin"
             },
             "tags": [
             ],
             "date_published": "2021-11-01T10:28:56+02:00",
-            "date_modified": "2021-11-01T10:28:56+02:00"
+            "date_modified": "2021-11-01T10:42:05+02:00"
         }
     ]
 }
