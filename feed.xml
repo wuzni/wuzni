@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>wuzni</title>
-    <link href="https://wuzni.tk/feed.xml" rel="self" />
-    <link href="https://wuzni.tk" />
+    <link href="https://wuzni.pages.dev/feed.xml" rel="self" />
+    <link href="https://wuzni.pages.dev" />
     <updated>2021-11-01T10:42:05+02:00</updated>
     <author>
         <name>admin</name>
     </author>
-    <id>https://wuzni.tk</id>
+    <id>https://wuzni.pages.dev</id>
 
     <entry>
         <title>Welcome To Wuzni Website</title>
         <author>
             <name>admin</name>
         </author>
-        <link href="https://wuzni.tk/welcome-to-wuzni-website.html"/>
-        <id>https://wuzni.tk/welcome-to-wuzni-website.html</id>
+        <link href="https://wuzni.pages.dev/welcome-to-wuzni-website.html"/>
+        <id>https://wuzni.pages.dev/welcome-to-wuzni-website.html</id>
 
         <updated>2021-11-01T10:42:05+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://wuzni.tk/media/posts/1/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-2.jpg" alt="It&#x27;s My New Image" />
+                        <img src="https://wuzni.pages.dev/media/posts/1/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-2.jpg" alt="It&#x27;s My New Image" />
                     It's my new website for testing github service, thank you to watch it. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://wuzni.tk/media/posts/1/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-2.jpg" alt="It&#x27;s My New Image" />
+                    <img src="https://wuzni.pages.dev/media/posts/1/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-2.jpg" alt="It&#x27;s My New Image" />
                 <p>It's my new website for testing github service, thank you to watch it.</p>
-<figure class="post__image post__image--wide" ><img loading="lazy" src="https://wuzni.tk/media/posts/1/mo-gabrail-iuC3w8mLDcs-unsplash-xxl.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://wuzni.tk/media/posts/1/responsive/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-xs.jpg 300w ,https://wuzni.tk/media/posts/1/responsive/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-sm.jpg 480w ,https://wuzni.tk/media/posts/1/responsive/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-md.jpg 768w ,https://wuzni.tk/media/posts/1/responsive/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-lg.jpg 1024w ,https://wuzni.tk/media/posts/1/responsive/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-xl.jpg 1360w ,https://wuzni.tk/media/posts/1/responsive/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-2xl.jpg 1600w"  alt="It's My New Image" width="1600" height="1200">
+<figure class="post__image post__image--wide" ><img loading="lazy" src="https://wuzni.pages.dev/media/posts/1/mo-gabrail-iuC3w8mLDcs-unsplash-xxl.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://wuzni.pages.dev/media/posts/1/responsive/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-xs.jpg 300w ,https://wuzni.pages.dev/media/posts/1/responsive/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-sm.jpg 480w ,https://wuzni.pages.dev/media/posts/1/responsive/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-md.jpg 768w ,https://wuzni.pages.dev/media/posts/1/responsive/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-lg.jpg 1024w ,https://wuzni.pages.dev/media/posts/1/responsive/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-xl.jpg 1360w ,https://wuzni.pages.dev/media/posts/1/responsive/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-2xl.jpg 1600w"  alt="It's My New Image" width="1600" height="1200">
 <figcaption >It's My New Image</figcaption>
 </figure>
 <p> </p>
