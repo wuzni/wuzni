@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>wuzni</title>
+    <link href="https://wuzni.github.io/wuzni/feed.xml" rel="self" />
+    <link href="https://wuzni.github.io/wuzni" />
+    <updated>2021-11-01T10:28:56+02:00</updated>
+    <author>
+        <name>admin</name>
+    </author>
+    <id>https://wuzni.github.io/wuzni</id>
+
+    <entry>
+        <title>Welcome To Wuzni Website</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://wuzni.github.io/wuzni/welcome-to-wuzni-website.html"/>
+        <id>https://wuzni.github.io/wuzni/welcome-to-wuzni-website.html</id>
+
+        <updated>2021-11-01T10:28:56+02:00</updated>
+            <summary>
+                <![CDATA[
+                    It's my new website for testing github service, thank you to watch it.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>It's my new website for testing github service, thank you to watch it.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

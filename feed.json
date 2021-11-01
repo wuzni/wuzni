@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "wuzni",
+    "description": "",
+    "home_page_url": "https://wuzni.github.io/wuzni",
+    "feed_url": "https://wuzni.github.io/wuzni/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "admin"
+    },
+    "items": [
+        {
+            "id": "https://wuzni.github.io/wuzni/welcome-to-wuzni-website.html",
+            "url": "https://wuzni.github.io/wuzni/welcome-to-wuzni-website.html",
+            "title": "Welcome To Wuzni Website",
+            "summary": "It's my new website for testing github service, thank you to watch it.",
+            "content_html": "<p>It's my new website for testing github service, thank you to watch it.</p>",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-01T10:28:56+02:00",
+            "date_modified": "2021-11-01T10:28:56+02:00"
+        }
+    ]
+}
