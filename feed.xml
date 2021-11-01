@@ -3,7 +3,7 @@
     <title>wuzni</title>
     <link href="https://wuzni.tk/feed.xml" rel="self" />
     <link href="https://wuzni.tk" />
-    <updated>2021-11-01T10:42:05+02:00</updated>
+    <updated>2021-11-01T18:13:32+02:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://wuzni.tk/welcome-to-wuzni-website.html"/>
         <id>https://wuzni.tk/welcome-to-wuzni-website.html</id>
+            <category term="News"/>
 
-        <updated>2021-11-01T10:42:05+02:00</updated>
+        <updated>2021-11-01T18:13:32+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://wuzni.tk/media/posts/1/mo-gabrail-iuC3w8mLDcs-unsplash-xxl-2.jpg" alt="It&#x27;s My New Image" />
