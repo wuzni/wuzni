@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://wuzni.github.io/wuzni/sitemap.xml
+Sitemap: https://wuzni.tk/sitemap.xml
